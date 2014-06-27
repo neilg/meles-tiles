@@ -28,6 +28,10 @@
     <packaging>pom</packaging>
     <name>Meles Tiles</name>
 
+    <modules>
+        <module>meles-license-gpl-tile</module>
+    </modules>
+
     <licenses>
         <license>
             <name>GPL-3</name>
