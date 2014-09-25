@@ -6,20 +6,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>io.meles</groupId>
+        <groupId>io.meles.tiles</groupId>
         <artifactId>meles-tiles</artifactId>
         <version>0.1.0-SNAPSHOT</version>
     </parent>
 
     <artifactId>meles-license-gpl-tile</artifactId>
-    <packaging>pom</packaging>
-
-    <licenses>
-        <license>
-            <name>GPL-3</name>
-            <distribution>repo</distribution>
-            <url>http://www.gnu.org/licenses/gpl-3.0.txt</url>
-        </license>
-    </licenses>
+    <packaging>tile</packaging>
 
 </project>
